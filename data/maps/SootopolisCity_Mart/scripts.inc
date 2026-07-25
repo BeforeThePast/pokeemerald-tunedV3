@@ -21,6 +21,15 @@ SootopolisCity_Mart_Pokemart:
 	.2byte ITEM_MAX_REPEL
 	.2byte ITEM_X_ATTACK
 	.2byte ITEM_X_DEFEND
+	.2byte ITEM_TM_AERIAL_ACE
+	.2byte ITEM_TM_BRICK_BREAK
+	.2byte ITEM_TM_RETURN
+	.2byte ITEM_TM_EARTHQUAKE
+	.2byte ITEM_TM_IRON_TAIL
+	.2byte ITEM_TM_SOLAR_BEAM
+	.2byte ITEM_TM_GIGA_DRAIN
+	.2byte ITEM_TM_WATER_PULSE
+	.2byte ITEM_TM_DRAGON_CLAW
 	.2byte ITEM_SHADOW_MAIL
 	pokemartlistend
 
