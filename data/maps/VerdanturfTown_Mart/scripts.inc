@@ -24,6 +24,13 @@ VerdanturfTown_Mart_Pokemart:
 	.2byte ITEM_REPEL
 	.2byte ITEM_X_SPECIAL
 	.2byte ITEM_FLUFFY_TAIL
+	.2byte ITEM_TM_ROAR
+	.2byte ITEM_TM_BULK_UP
+	.2byte ITEM_TM_BULLET_SEED
+	.2byte ITEM_TM_TAUNT
+	.2byte ITEM_TM_DIG
+	.2byte ITEM_TM_SHOCK_WAVE
+	.2byte ITEM_TM_ROCK_TOMB
 	pokemartlistend
 
 VerdanturfTown_Mart_EventScript_Boy::
