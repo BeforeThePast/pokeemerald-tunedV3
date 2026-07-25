@@ -27,6 +27,12 @@ MossdeepCity_Mart_Pokemart:
 	.2byte ITEM_MAX_ELIXIR
 	.2byte ITEM_PP_UP
 	.2byte ITEM_PP_MAX
+	.2byte ITEM_TM_AERIAL_ACE
+	.2byte ITEM_TM_TORMENT
+	.2byte ITEM_TM_FACADE
+	.2byte ITEM_TM_SECRET_POWER
+	.2byte ITEM_TM_REST
+	.2byte ITEM_TM_ATTRACT
 	pokemartlistend
 
 MossdeepCity_Mart_EventScript_Woman::
