@@ -30,6 +30,9 @@ FortreeCity_Mart_Pokemart:
 	.2byte ITEM_HARD_STONE
 	.2byte ITEM_MIRACLE_SEED
 	.2byte ITEM_BLACK_GLASSES
+	.2byte ITEM_TM_THIEF
+	.2byte ITEM_TM_STEEL_WING
+	.2byte ITEM_TM_OVERHEAT
 	.2byte ITEM_WOOD_MAIL
 	pokemartlistend
 
