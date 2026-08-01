@@ -3336,7 +3336,7 @@ static const struct TrainerMonItemCustomMoves sParty_Glacia[] = {
     .lvl = 53,
     .species = SPECIES_WEEZING,
     .heldItem = ITEM_NONE,
-    .moves = {MOVE_SACRED_FIRE, MOVE_THUNDERBOLT, MOVE_SLUDGE_BOMB, DESTINY_BOND}
+    .moves = {MOVE_SACRED_FIRE, MOVE_THUNDERBOLT, MOVE_SLUDGE_BOMB, MOVE_DESTINY_BOND}
     },
     {
     .iv = 255,
